@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-11T16:45:14.088Z'
-dateModified: '2016-06-11T16:44:58.920Z'
+datePublished: '2016-06-11T16:48:52.306Z'
+dateModified: '2016-06-11T16:45:21.762Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-11-binnenvaartondernemen.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-11-binnenvaartondernemen.md
 url: binnenvaartondernemen/index.html
 _type: Article
 
