@@ -1,0 +1,28 @@
+name: BinnenvaartOndernemen
+favicon: null
+layout_spectrum: 0.00530981388874352
+typography_spectrum: 0.5612556680571288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.31695016543380916
+  lightness: 0.58816187386401
+  saturation: 0.43213220685720444
+  rhythmicContrast: 0.44598618266172707
+purpose: []
